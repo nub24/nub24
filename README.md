@@ -1,7 +1,7 @@
 ## Привет 👋 Меня зовут Алексей, я  Frontend-разработчик.
 
 ### Обо мне:
-* В августе 2023 года я завершил обучение в Яндекс.Практикум по направлению Веб-разработчик.
+* В августе 2023 года завершил обучение в Яндекс.Практикум по направлению Веб-разработчик.
 * Пишу чистый и понятный код.
 * Изучаю фреймворки, прокачиваю hard-skills, постоянно изучаю новые тенденции.
 * Хочу попасть в команду опытных разработчиков, чтобы набраться опыта и вместе писать интересные проекты.
@@ -29,7 +29,7 @@
 <a href="mailto:nub24@rambler.ru" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 ### GitHub статистика:
-<table>
+<!-- <table>
   <tr>
     <td>
       <img align="left" src="https://streak-stats.demolab.com?user=MarkRND&theme=dark&background=000000" alt="webDev's Github stats" />
@@ -38,4 +38,5 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarkRND&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-</table>
+</table> -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YuliaDuk)](https://github.com/anuraghazra/github-readme-stats)
