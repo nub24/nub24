@@ -32,7 +32,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="[![GitHub Streak](https://streak-stats.demolab.com?user=nub24&theme=dark&hide_border=true&locale=ru)](https://git.io/streak-stats)" alt="webDev's Github stats" />
+      <img align="left" src="https://streak-stats.demolab.com?user=nub24&theme=dark&hide_border=true&locale=ru" alt="webDev's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarkRND&layout=compact&theme=vision-friendly-dark" />
