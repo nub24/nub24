@@ -35,7 +35,7 @@
       <img align="left" src="https://streak-stats.demolab.com?user=nub24&theme=dark&hide_border=true&locale=ru" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MarkRND&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nub24&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
 </table>
